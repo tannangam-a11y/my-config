@@ -9,25 +9,8 @@
       "image": "https://i.postimg.cc/4xnD3yfv/01.png",
       "link": "https://s.shopee.co.th/16ikTFieI",
       "title": "Shopee Thailand Special",
-      "start": "2024-01-01",
-      "end": "2028-12-31",
       "priority": 10,
       "country": "TH"
-    },
-    {
-      "image": "https://yourcdn.com/banner-amazon-global.jpg",
-      "link": "https://amazon.com",
-      "title": "Amazon Global",
-      "start": "2024-01-01",
-      "end": "2028-12-31",
-      "priority": 5,
-      "country": "GLOBAL"
-    },
-    {
-      "image": "https://yourcdn.com/banner-default.jpg",
-      "link": "https://example.com",
-      "title": "Default Banner",
-      "priority": 1
     }
   ]
 }
