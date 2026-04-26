@@ -6,7 +6,7 @@
   },
   "banners": [
     {
-      "image": "https://github.com/tannangam-a11y/my-extension-config/blob/main/01.png?raw=true",
+      "image": "https://raw.githubusercontent.com/tammengan/my-extension-config/main/01.png",
       "link": "https://s.shopee.co.th/16ikTFieI",
       "title": "Shopee Thailand Special",
       "priority": 10,
